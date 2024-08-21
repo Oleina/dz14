@@ -1,4 +1,4 @@
-public class Main {
+ublic class Main {
 
     public static long calculateFactorial(int number) {
         if (number < 0) {
